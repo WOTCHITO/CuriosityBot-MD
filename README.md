@@ -1,6 +1,6 @@
-# `CuriosityBot-MD` 
+# `Víctor bot uruguayo-Bot-MD` 
 Bot en desarrollo
-
+Víctor bot uruguayo
 <p align="center">
 <img src="https://telegra.ph/file/847bdd9005d7e75eb2373.jpg" alt="CuriosityBot-MD" width="900"/>
 </p>
@@ -35,7 +35,7 @@ Bot en desarrollo
 ### Ejemplo 
 En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 
-[![Grupos](https://img.shields.io/badge/CuriosityBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiCOqSlcPVfEDu8WroH6ed) 
+[![Grupos](https://img.shields.io/badge/CuriosityBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDP) 
 
 ***
 
@@ -88,7 +88,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
  ### `DUDAS SOBRE EL BOT?, CONTACTAME`
 
-<a href="https://wa.me/59894808483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59894243071"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### EDITOR & PROPIETARIO DEL BOT
 <a href="https://github.com/Undefined17"><img src="https://github.com/Undefined17.png" width="250" height="250" alt="Azami19"/></a>
